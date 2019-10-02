@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "9e120b08606471db47bd7d828f483c7e64619eb9",
+    "commit": "96ced55a3fc6d3d32f3ad1b6161f4fe23f77c4ef",
     "conditionals": null,
     "data_reduction_software": "pychron 19.6",
     "detectors": {
@@ -109,14 +109,14 @@
     "rlocation": "",
     "sample": "blank_air",
     "source": {
-        "emission": 684.771,
-        "trap": 199.042
+        "emission": 684.649,
+        "trap": 198.706
     },
     "spec_sha": "15528f9a674f5254c9678ebbc7913504b73f4409",
-    "timestamp": "2019-10-01T18:35:54.686369",
+    "timestamp": "2019-10-01T18:49:56.462903",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "aa0bf27b-8eff-4dd4-81c8-3a7011771d3d",
+    "uuid": "ae427618-4a4b-458c-9d92-c0456d1b2c5e",
     "whiff_result": null
 }
