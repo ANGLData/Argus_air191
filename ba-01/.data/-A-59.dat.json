@@ -1,0 +1,95 @@
+{
+    "baselines": [
+        {
+            "blob": "QkUeHr7xxAVCSW94vZyen0JNruW+lNdaQlHwGr7/Cl5CVjC8vzD/m0Ja3mG/F6f1Ql8dcb5mGaFCY13ZvxbAQUJnnai/CET/Qmvc/74ojTM=",
+            "detector": "H2"
+        },
+        {
+            "blob": "QkUeHr8dZypCSW94v0abvEJNruW/HdCpQlHwGr8rvMNCVjC8vw1y40Ja3mG/SHZhQl8dcb8AaHBCY13ZvzxWS0Jnnai/Nb6SQmvc/78vn1s=",
+            "detector": "H1"
+        },
+        {
+            "blob": "QkUeHr3y9TVCSW94vlaj8UJNruW+bTdrQlHwGrxc89tCVjC8vnJxzkJa3mG+rF8ZQl8dcb4+o01CY13ZvoFcgUJnnai+JJ1eQmvc/74x7Gg=",
+            "detector": "AX"
+        },
+        {
+            "blob": "QkUeHjqbNpRCSW94PULzQkJNruW+fvRXQlHwGr4H3ttCVjC8vlZZM0Ja3mG96aGwQl8dcb6d7CFCY13Zvg4urkJnnag9LvB2Qmvc/zzFaos=",
+            "detector": "L1"
+        },
+        {
+            "blob": "QkUeHr+E7B9CSW94v5OqaEJNruW/GknGQlHwGr+MjU5CVjC8v04JMkJa3mG/Zu72Ql8dcb+BthdCY13Zv4RCcEJnnai/dTFyQmvc/7+EnO8=",
+            "detector": "L2"
+        },
+        {
+            "blob": null,
+            "detector": "CDD"
+        }
+    ],
+    "commit": "835a82b4803b08775576b3eb4e90b64e36496d5f",
+    "encoding": "base64",
+    "format": ">ff",
+    "signals": [
+        {
+            "blob": "Qc48SDvC3KFB1t0iP1Q6i0HfXeE+HM3aQefbqz2QzqdB8FyJvxRWYUH5nj4+fnfrQgEQHr5gEONCBU8WvnNgEEIJjqy+nxllQg3N+r64cT4=",
+            "detector": "H2",
+            "isotope": "PM41"
+        },
+        {
+            "blob": "Qc48SD+5bn1B1t0iP8ISskHfXeE/xYSbQefbqz/RcZBB8FyJP8rY+kH5nj4/3CXwQgEQHj/xh9xCBU8WP7UybEIJjqw/0Mu3Qg3N+j/Uqws=",
+            "detector": "H1",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "Qc48SDwGpBlB1t0ivdZv/0HfXeG+ZX4/Qefbq75zg5FB8FyJvkfJlUH5nj49MTukQgEQHr5U26lCBU8Wvj4LNEIJjqy+nx/QQg3N+r3l4tU=",
+            "detector": "AX",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "Qc48SD2+YqpB1t0iPp5UTEHfXeE98SFrQefbqz2WH65B8FyJPDN7kkH5nj48X1CQQgEQHj0VNgtCBU8WPiyfbEIJjqw934ApQg3N+j5ntjw=",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "Qc48SL+AfRxB1t0ivxy0dEHfXeG/djHhQefbq79ezTBB8FyJv6SK3EH5nj6/ifHrQgEQHr9e+nJCBU8Wv4Q65UIJjqy/hhYCQg3N+r9Pa7s=",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": null,
+            "detector": "CDD",
+            "isotope": "Ar36"
+        }
+    ],
+    "sniffs": [
+        {
+            "blob": "P5I18j7CwYlAEOBwPy3xzkBY84w8h4bKQJCd9L6hg0lAtIc4O8LcoUDYfWK9yAZUQPyQZj2hr/FBED/qvqDo0EEiTXS+3nT1QTRACb70yGBBRkAMPrHgHkFYOwM+D4qIQWoPKD6UVa1Be/9xPunxc0GG/V2+DzU7QY/7FT0fZbZBmONYvoIiq0Gh4/E+3n0JQarBgT8B7v5Bs6hxPjrygw==",
+            "detector": "H2",
+            "isotope": "PM41"
+        },
+        {
+            "blob": "P5I18r8Vv/NAEOBwvOy4X0BY84y8bgqZQJCd9D5QEnRAtIc4Pyc2FUDYfWI+6SP4QPyQZj8MTLBBED/qP1aX8kEiTXQ/f9ulQTRACT+OHOZBRkAMP5pW0kFYOwM/tW7GQWoPKD+ai55Be/9xP6AR2EGG/V0/rGafQY/7FT+igB9BmONYP62uw0Gh4/E/zulCQarBgT++pJRBs6hxP7P1lA==",
+            "detector": "H1",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "P5I18r4Yfn1AEOBwvVrEmkBY84y93kfXQJCd9Dy1arNAtIc4vggYa0DYfWK+GTUDQPyQZr4k2jVBED/qvh++I0EiTXS9IqyYQTRACT2KD2xBRkAMuyjS7kFYOwO9F72WQWoPKL6DM/lBe/9xvln3qUGG/V2+mzQZQY/7Fb5HMXxBmONYvetaOkGh4/E9yFeVQarBgb24QMRBs6hxPVdELw==",
+            "detector": "AX",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "P5I18j4khadAEOBwPZGY60BY84w+0a7xQJCd9D4FT7VAtIc4PQEzTUDYfWK97mUzQPyQZj09O5lBED/qPoP/u0EiTXQ+PNMCQTRACT2wVFhBRkAMviDCn0FYOwM+NxslQWoPKD6F57lBe/9xPhCgzEGG/V09s+crQY/7Fb3BnahBmONYPVZ8HEGh4/G9X1pMQarBgT4OIGJBs6hxPWr47w==",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "P5I18r+PtC5AEOBwv07caEBY84y/f/nMQJCd9L+MvlJAtIc4v402+kDYfWK/Zw0iQPyQZr9dNeBBED/qv4z24EEiTXS/gw08QTRACb+NIFpBRkAMv06vJkFYOwO/ZRtTQWoPKL9rQ7VBe/9xvzs02EGG/V2/luuhQY/7Fb9OJ15BmONYv1iOGUGh4/G/k6LdQarBgb9avEZBs6hxv4VZeQ==",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": null,
+            "detector": "CDD",
+            "isotope": "Ar36"
+        }
+    ]
+}
